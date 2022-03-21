@@ -13,4 +13,5 @@ exercises_3/plots/*
 lectures/*.png
 lectures/*.html
 lectures/*.json
+lectures/*.txt
 *.png
